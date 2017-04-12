@@ -44,3 +44,4 @@ The modified Boston housing dataset consists of 490 data points, with each datap
 
 **Target Variable**
 4. `MEDV`: median value of owner-occupied homes# udacity
+# UdacityPredictingBostonHousingPrices
